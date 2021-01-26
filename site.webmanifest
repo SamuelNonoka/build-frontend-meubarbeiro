@@ -57,7 +57,6 @@
   "theme_color": "#000000",
   "background_color": "#000000",
   "display": "standalone",
-  "orientation": "any",
   "prefer_related_applications": false,
   "start_url": "/"
 }
