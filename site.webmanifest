@@ -4,36 +4,6 @@
   "lang": "pt-BR",
   "icons": [
     { 
-      "src": "/icone-72x72.png",
-      "sizes": "72x72",
-      "type": "image/png"
-    },
-    { 
-      "src": "/icone-96x96.png",
-      "sizes": "96x96",
-      "type": "image/png"
-    },
-    { 
-      "src": "/icone-120x120.png",
-      "sizes": "120x120",
-      "type": "image/png"
-    },
-    { 
-      "src": "/icone-129x129.png",
-      "sizes": "129x129",
-      "type": "image/png"
-    },
-    { 
-      "src": "/icone-144x144.png",
-      "sizes": "144x144",
-      "type": "image/png"
-    },
-    { 
-      "src": "/icone-152x152.png",
-      "sizes": "152x152",
-      "type": "image/png"
-    },
-    { 
       "src": "/icone-180x180.png",
       "sizes": "180x180",
       "type": "image/png"
