@@ -1,4 +1,4 @@
-const version = '1.0.0'
+const version = '1.0.1'
 const cacheName = `shell-content-${version}`
 const filesToCache = [
   '/public/index.html',
@@ -24,7 +24,9 @@ self.addEventListener('fetch', function(event) {
       .then(function(cache) {
         return fetch(event.request)
           .then(function(response) {
-            cache.put(event.request, response.clone())
+            if (event.request.method === 'GET') {
+              cache.put(event.request, response.clone())
+            }
             return response
           }).catch(function() {
             return caches.match(event.request).catch(function(){
