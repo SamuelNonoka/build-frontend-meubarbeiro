@@ -5,10 +5,18 @@ const filesToCache = [
   '/public/icone-192x192.png',
   '/public/favicon.png',
   '/js/app.js',
-  '/site.webmanifest',
-  '/meus-agendamentos',
-  '/offline'
+  '/site.webmanifest'
 ]
+
+/*const filesToCache = [
+  '/public/index.html',
+  '/public/icone-192x192.png',
+  '/public/favicon.png',
+  '/js/app.js',
+  '/site.webmanifest',
+  // '/meus-agendamentos',
+  // '/offline'
+]*/
 
 self.addEventListener('install', function (e) {
   e.waitUntil(

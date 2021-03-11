@@ -368,7 +368,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/site.webmanifest"
   },
   {
-    "revision": "baf23b8937c7430dae20988f1318b659",
+    "revision": "2c6ae6f7313161e4968ce51e87dbba77",
     "url": "/sw.js"
   },
   {
