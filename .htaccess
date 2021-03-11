@@ -2,6 +2,6 @@
 #RewriteCond %{HTTPS} !=on
 #RewriteRule ^/?(.*) https://%domain.com/$1 [R,L]
 
-RewriteEngine on
-RewriteCond %{HTTPS} off
-RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+#RewriteEngine on
+#RewriteCond %{HTTPS} off
+#RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
