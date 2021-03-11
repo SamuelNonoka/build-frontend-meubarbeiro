@@ -1,0 +1,11 @@
+@import 'src/scss/theme.scss';
+
+.paginacao {
+    a {
+        font-size: 18px;
+    }
+
+    .paginacao-item-ativo a {
+        color: $primary;
+    }
+}

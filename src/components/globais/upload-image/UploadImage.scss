@@ -1,0 +1,30 @@
+@import 'src/scss/theme.scss';
+
+.vicp-operate a {
+  color: $primary !important;
+  text-decoration: none;
+}
+
+.vicp-operate .vicp-operate-btn {
+  background-color: $primary !important;
+  color: #fff !important;
+}
+
+@media all and (max-width: 599px) {
+  .vue-image-crop-upload .vicp-wrap {
+    width: calc(100% - 60px) !important;
+    padding: 10px !important;
+  }
+    
+  .vicp-crop-right {
+    display: none !important;
+  }
+  
+  .vicp-crop-left {
+    float: none !important;
+  }
+  
+  .vicp-img-container {
+    margin: auto; 
+  }
+}

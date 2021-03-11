@@ -1,0 +1,141 @@
+@import 'src/scss/mixin.scss';
+
+$primary: #212121;//#3e2723;
+$primaryDark: #000000; // #1b0000;
+$primaryLight: #484848;//#6a4f4b;
+$secondary: #ffc107;
+$secondaryDark: #c79100;
+$secondaryLight: #fff350;
+$accent: #f6b332;
+$muted: #E1E2E1;
+$danger: #B71C1C;
+$success: #009688;
+
+.v-input--selection-controls {
+    margin: 0;
+    padding-top: 0;
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+
+    .v-input__slot {
+        margin: 0;
+    }
+
+    .v-messages {
+        display: none;
+    }
+}
+
+.container {
+    width: 1100px;
+    max-width: 100%;
+}
+
+.container--fluid {
+    width: 100%;
+}
+
+// Classes
+body {
+    background: $muted;
+}
+
+.app-btn {
+    padding: 5px 30px; 
+
+    &:hover {
+        @include box-shadown-mixin (0.5);
+    }
+}
+
+.app-btn-shadown {
+    @include box-shadown-mixin (0.5);
+}
+
+.app-btn-primario {
+    background: $secondary;
+    color: #fff;
+}
+
+.app-btn-secundario {
+    background: $secondary;
+    color: #fff;
+}
+
+.app-btn-terciario {
+    background: $primary;
+    color: #fff;
+}
+
+.app-btn-rounded {
+    @include border-radius-mixin (15px);
+}
+
+.app-text-especial-2 {
+    font-weight: 400;
+}
+
+.app-text-especial-2-bold {
+    font-weight: 700;
+}
+
+.app-text-claro {
+    color: #fff;
+}
+
+.app-text-escuro {
+    color: $primary;
+}
+
+.app-border-rounded {
+    overflow: hidden;
+    @include border-radius-mixin (50%);
+}
+
+.app-border-radius {
+    overflow: hidden;
+    @include border-radius-mixin (15px);
+}
+
+.app-border-radius-small {
+    overflow: hidden;
+    @include border-radius-mixin (5px);
+}
+
+// FORM
+.app-error-span {
+    color: $danger;
+    font-size: 12px;
+    display: block;
+}
+
+.app-error-input .v-input__slot:before {
+    border-color: $danger !important;
+}
+
+.box-height {
+    position: relative;
+}
+
+.loader {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.absolute-centering {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    display: block;
+    width: fit-content;
+    height: fit-content;
+}

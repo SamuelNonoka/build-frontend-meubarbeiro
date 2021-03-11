@@ -1,0 +1,36 @@
+@import 'src/scss/theme.scss';
+
+#menu-lateral {
+  .logo {
+    cursor: pointer;
+  }
+
+  .btn-lateral {
+    border-radius: 2px;
+
+    &:hover, &.active {
+      color: $secondary !important;
+      background-color: transparent !important;
+      opacity: 1;
+
+      &:before {
+        background-color: #fff !important;
+        opacity: 0.1 !important;
+      }
+
+      i {
+        color: $secondary !important;
+      }
+    }
+  }
+}
+
+@media all and (min-width: 960px) {
+  #menu-lateral {
+    width: 100px !important;
+    padding: 0 15px;
+    transition: all .5s;
+  
+    &.open { width: 250px !important; }
+  }
+}

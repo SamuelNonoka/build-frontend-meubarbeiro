@@ -1,0 +1,13 @@
+@import 'src/scss/theme.scss';
+
+.footer {
+  background-color: $muted;
+}
+
+.v-btn--active {
+  color: $secondary !important;
+
+  &:before {
+    background-color: transparent !important;
+  }
+}
