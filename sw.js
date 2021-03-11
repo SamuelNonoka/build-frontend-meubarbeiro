@@ -2,7 +2,7 @@ const version = '1.0.1'
 const cacheName = `shell-content-${version}`
 const filesToCache = [
   '/public/index.html',
-  '/public/icone-96x96.png',
+  '/public/icone-192x192.png',
   '/public/favicon.png',
   '/js/app.js',
   '/site.webmanifest',
