@@ -1,4 +1,4 @@
-const version = '1.0.1'
+const version = '1.0.2'
 const cacheName = `shell-content-${version}`
 const filesToCache = [
   '/public/index.html',
@@ -6,8 +6,8 @@ const filesToCache = [
   '/public/favicon.png',
   '/js/app.js',
   '/site.webmanifest',
-  'meus-agendamentos',
-  'offline'
+  '/meus-agendamentos',
+  '/offline'
 ]
 
 self.addEventListener('install', function (e) {
