@@ -7,7 +7,9 @@ const filesToCache = [
   '/js/app.js',
   '/site.webmanifest',
   '/meus-agendamentos',
-  '/offline'
+  '/offline',
+  '/termo-de-uso',
+  '/politica-de-privacidade'
 ]
 
 /*const filesToCache = [
