@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Grupo 74.svg"
   },
   {
-    "revision": "20aacbab34d35da6e34e",
+    "revision": "d80900a77c400b077668",
     "url": "/css/app.dab296e1.css"
   },
   {
@@ -228,12 +228,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icone-513x513.png"
   },
   {
-    "revision": "b97443cd866de04acb62c96e70be06f8",
+    "revision": "fd2536c93114913b59047b329126df51",
     "url": "/index.html"
   },
   {
-    "revision": "20aacbab34d35da6e34e",
-    "url": "/js/app.398b5889.js"
+    "revision": "d80900a77c400b077668",
+    "url": "/js/app.7f61039f.js"
   },
   {
     "revision": "d80c545fb4d27ed90394",
