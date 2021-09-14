@@ -1,4 +1,4 @@
-const version = '1.0.10'
+const version = '1.0.11'
 const cacheName = `shell-content-${version}`
 const filesToCache = [
   '/public/index.html',
@@ -15,12 +15,21 @@ const filesToCache = [
 ]
 
 self.addEventListener('install', function (e) {
-  e.waitUntil(
+  self.skipWaiting(
     caches.open(cacheName).then(function (cache) {
       return cache.addAll(filesToCache)
     })
   )
+
+  e.waitUntil(
+    caches.keys().then(function (cacheNames) {
+      const names = cacheNames.filter(name => name != cacheName)
+      for (let name of names)
+        caches.delete(name);
+    }))
 })
+
+self.addEventListener('install', function (e) { })
 
 self.addEventListener('fetch', function (event) {
   event.respondWith(
