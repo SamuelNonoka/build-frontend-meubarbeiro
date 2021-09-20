@@ -31,8 +31,6 @@ messaging.onBackgroundMessage((payload) => {
 });
 
 self.addEventListener('notificationclick', function (event) {
-  console.log('click')
-  console.log(event.notification)
   const notification = event.notification
   if (notification.data && notification.data.link) {
     event.notification.close();

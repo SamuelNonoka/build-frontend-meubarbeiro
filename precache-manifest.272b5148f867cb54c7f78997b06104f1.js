@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Grupo 74.svg"
   },
   {
-    "revision": "fffc0370014e283e829b",
+    "revision": "f12abd474872e63bb2ee",
     "url": "/css/app.3d14d0a8.css"
   },
   {
@@ -42,10 +42,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cd878ff2f9296bed7bcf",
     "url": "/css/chunk-2bd52702.c39c3e63.css"
-  },
-  {
-    "revision": "df109a9c4499d8bec6bd",
-    "url": "/css/chunk-3aa1f00c.4b7d0bc1.css"
   },
   {
     "revision": "3d7df4c2e86ea7098260",
@@ -192,6 +188,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/chunk-d70b68c8.834f3891.css"
   },
   {
+    "revision": "eff87991515b5ea5ab60",
+    "url": "/css/chunk-e195f572.96bd591f.css"
+  },
+  {
     "revision": "50e54901b5e25776dc54",
     "url": "/css/chunk-e63426dc.5be29a7f.css"
   },
@@ -216,7 +216,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/favicon.png"
   },
   {
-    "revision": "a14e17934a871e2a5902244a5607b381",
+    "revision": "e6cbf7596f21fbbbccb76998c4832192",
     "url": "/firebase-messaging-sw.js"
   },
   {
@@ -340,12 +340,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icone-513x513.png"
   },
   {
-    "revision": "edb72085df6fbf4ec4d829eadbe62233",
+    "revision": "b2048fe440ae48e933845a50ccd5bf9b",
     "url": "/index.html"
   },
   {
-    "revision": "fffc0370014e283e829b",
-    "url": "/js/app.86e25e10.js"
+    "revision": "f12abd474872e63bb2ee",
+    "url": "/js/app.67ff798c.js"
   },
   {
     "revision": "64af28d2ef663a29595b",
@@ -374,10 +374,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "72b03f2aa4e150493f61",
     "url": "/js/chunk-2d0ddc20.0d83602f.js"
-  },
-  {
-    "revision": "df109a9c4499d8bec6bd",
-    "url": "/js/chunk-3aa1f00c.78805262.js"
   },
   {
     "revision": "3d7df4c2e86ea7098260",
@@ -542,6 +538,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0bb6c626a05fccb22cd8",
     "url": "/js/chunk-d70b68c8.4754863b.js"
+  },
+  {
+    "revision": "eff87991515b5ea5ab60",
+    "url": "/js/chunk-e195f572.65be69b1.js"
   },
   {
     "revision": "50e54901b5e25776dc54",
