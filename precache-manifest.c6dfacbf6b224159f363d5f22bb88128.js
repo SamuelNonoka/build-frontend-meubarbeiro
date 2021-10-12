@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/badge.png"
   },
   {
-    "revision": "7ec83b46d2bd0274aa71",
+    "revision": "c899b7f09974fa779132",
     "url": "/css/app.3d14d0a8.css"
   },
   {
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a627c435948b2c4dac4d",
     "url": "/css/chunk-1115dd8b.db0041bb.css"
+  },
+  {
+    "revision": "5afd7f0d262372104588",
+    "url": "/css/chunk-11faa376.57b52b29.css"
   },
   {
     "revision": "2e3a652f37f4a1683fa0",
@@ -192,10 +196,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/chunk-d70b68c8.834f3891.css"
   },
   {
-    "revision": "62bda77a3d097dd368c5",
-    "url": "/css/chunk-d744ee90.648e4117.css"
-  },
-  {
     "revision": "6b216bcce374b9f84c70",
     "url": "/css/chunk-e195f572.96bd591f.css"
   },
@@ -352,12 +352,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icone-513x513.png"
   },
   {
-    "revision": "f3df3a9eeda9e390b0076015c3220f68",
+    "revision": "36aa4de14a796edb021de86b7a7a888c",
     "url": "/index.html"
   },
   {
-    "revision": "7ec83b46d2bd0274aa71",
-    "url": "/js/app.e4f1ceff.js"
+    "revision": "c899b7f09974fa779132",
+    "url": "/js/app.edaa7f47.js"
   },
   {
     "revision": "eff24e813950335863d7",
@@ -366,6 +366,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a627c435948b2c4dac4d",
     "url": "/js/chunk-1115dd8b.b644927c.js"
+  },
+  {
+    "revision": "5afd7f0d262372104588",
+    "url": "/js/chunk-11faa376.53f6d668.js"
   },
   {
     "revision": "2e3a652f37f4a1683fa0",
@@ -552,10 +556,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-d70b68c8.e5acbef7.js"
   },
   {
-    "revision": "62bda77a3d097dd368c5",
-    "url": "/js/chunk-d744ee90.81aac6f4.js"
-  },
-  {
     "revision": "6b216bcce374b9f84c70",
     "url": "/js/chunk-e195f572.4e041042.js"
   },
@@ -604,7 +604,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/site.webmanifest"
   },
   {
-    "revision": "bb1a64052b1c288eeddb8806504ad5dc",
+    "revision": "d90757403f77fd16ca836da7eb96a74e",
     "url": "/sw.js"
   },
   {
