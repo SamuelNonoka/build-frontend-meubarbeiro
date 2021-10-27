@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/barbershop/tesoura.svg"
   },
   {
-    "revision": "f1c110ff77a5cecf8739",
+    "revision": "b4cb0ae0b05ac4974ccb",
     "url": "/css/app.3d14d0a8.css"
   },
   {
@@ -212,7 +212,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/chunk-d7362a30.4d8be980.css"
   },
   {
-    "revision": "e5b9674948f64144bd2b",
+    "revision": "96f020c600136a10407d",
     "url": "/css/chunk-d8ee2f9e.3576b066.css"
   },
   {
@@ -364,12 +364,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icone-513x513.png"
   },
   {
-    "revision": "f2441e7fc8e08742d262c367434462cf",
+    "revision": "8d8f54f5b20f499a4db2656b3c3ad2fe",
     "url": "/index.html"
   },
   {
-    "revision": "f1c110ff77a5cecf8739",
-    "url": "/js/app.04925fdb.js"
+    "revision": "b4cb0ae0b05ac4974ccb",
+    "url": "/js/app.0dd3b56c.js"
   },
   {
     "revision": "103c4bd3082e635122b7",
@@ -568,8 +568,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-d7362a30.c281d7d0.js"
   },
   {
-    "revision": "e5b9674948f64144bd2b",
-    "url": "/js/chunk-d8ee2f9e.2f244820.js"
+    "revision": "96f020c600136a10407d",
+    "url": "/js/chunk-d8ee2f9e.ec43820f.js"
   },
   {
     "revision": "d044787b782f6c89b2aa",
