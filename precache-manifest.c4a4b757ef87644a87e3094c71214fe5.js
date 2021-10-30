@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/barbershop/tesoura.svg"
   },
   {
-    "revision": "26e2698ebbabdf782847",
+    "revision": "5c7f642aeb92635c478e",
     "url": "/css/app.3d14d0a8.css"
   },
   {
@@ -364,12 +364,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icone-513x513.png"
   },
   {
-    "revision": "53444f8d56e499e16a3aa26e1257b523",
+    "revision": "e76ee099acbaaf8f7ebc2b728a57ca01",
     "url": "/index.html"
   },
   {
-    "revision": "26e2698ebbabdf782847",
-    "url": "/js/app.5f4ef3ea.js"
+    "revision": "5c7f642aeb92635c478e",
+    "url": "/js/app.78017ac6.js"
   },
   {
     "revision": "103c4bd3082e635122b7",
@@ -616,7 +616,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/site.webmanifest"
   },
   {
-    "revision": "93af2a57439fe71cdaac1223b9b6b126",
+    "revision": "eda08b9d37372c0d7315f5dc33323cbc",
     "url": "/sw.js"
   },
   {
