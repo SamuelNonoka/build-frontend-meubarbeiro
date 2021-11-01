@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/barbershop/tesoura.svg"
   },
   {
-    "revision": "5c7f642aeb92635c478e",
+    "revision": "aa4923f702f2668e0af1",
     "url": "/css/app.3d14d0a8.css"
   },
   {
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "514924d0c5070e67166d",
     "url": "/css/chunk-040adbef.8b76195c.css"
+  },
+  {
+    "revision": "ae66cdffbf56659cafa1",
+    "url": "/css/chunk-0c3d64a2.a443c889.css"
   },
   {
     "revision": "f08e6f69926b1690f403",
@@ -212,10 +216,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/chunk-d7362a30.4d8be980.css"
   },
   {
-    "revision": "96f020c600136a10407d",
-    "url": "/css/chunk-d8ee2f9e.3576b066.css"
-  },
-  {
     "revision": "bba3f1101b4ab08783ff",
     "url": "/css/chunk-f1100ac0.bb727460.css"
   },
@@ -364,12 +364,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icone-513x513.png"
   },
   {
-    "revision": "e76ee099acbaaf8f7ebc2b728a57ca01",
+    "revision": "05168309b3e01757b8d94b73ef601f60",
     "url": "/index.html"
   },
   {
-    "revision": "5c7f642aeb92635c478e",
-    "url": "/js/app.78017ac6.js"
+    "revision": "aa4923f702f2668e0af1",
+    "url": "/js/app.e871b940.js"
   },
   {
     "revision": "103c4bd3082e635122b7",
@@ -382,6 +382,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "514924d0c5070e67166d",
     "url": "/js/chunk-040adbef.c77aef68.js"
+  },
+  {
+    "revision": "ae66cdffbf56659cafa1",
+    "url": "/js/chunk-0c3d64a2.159d8c54.js"
   },
   {
     "revision": "f08e6f69926b1690f403",
@@ -568,10 +572,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-d7362a30.c281d7d0.js"
   },
   {
-    "revision": "96f020c600136a10407d",
-    "url": "/js/chunk-d8ee2f9e.ec43820f.js"
-  },
-  {
     "revision": "bba3f1101b4ab08783ff",
     "url": "/js/chunk-f1100ac0.d676df3f.js"
   },
@@ -616,7 +616,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/site.webmanifest"
   },
   {
-    "revision": "eda08b9d37372c0d7315f5dc33323cbc",
+    "revision": "228dc517608e898207a5c65d9ba2ce2c",
     "url": "/sw.js"
   },
   {
