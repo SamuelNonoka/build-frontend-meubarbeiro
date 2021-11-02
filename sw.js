@@ -1,4 +1,4 @@
-const version = '1.9.3'
+const version = '1.10.0'
 const cacheName = `shell-content-${version}`
 const filesToCache = [
   '/public/index.html',
