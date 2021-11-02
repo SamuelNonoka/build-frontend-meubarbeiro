@@ -356,7 +356,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icone-513x513.png"
   },
   {
-    "revision": "1925e0a1a624a65617fe6f08a30ba2f2",
+    "revision": "3bd27cc2d4cd7cc73370dd51574a7dc4",
     "url": "/index.html"
   },
   {
@@ -600,7 +600,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/site.webmanifest"
   },
   {
-    "revision": "a0f457856f2f4ede3e3aa7ba3fac083d",
+    "revision": "29a876ebebf16891ddb2a9f6c096c7d6",
     "url": "/sw.js"
   },
   {
